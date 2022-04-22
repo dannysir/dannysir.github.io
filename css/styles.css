@@ -375,6 +375,14 @@ input[type='checkbox'] {
 
 }
 
+.class-image2{
+    width: 70px;
+    border-radius: 8px 8px 0 0;
+    height: 70px;
+    /* width를 max-width로 바꾸고 height 를 없애면 이미지도 안깨짐*/
+
+}
+
 /**********************/
 /*     Navigation     */
 /**********************/
